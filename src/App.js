@@ -4,7 +4,7 @@ import './App.css';
 import API from './utils/API'
 import { Container } from 'react-bootstrap';
 import People from './Components/People/People';
-// import SearchForm from './components/Search/SearchForm';
+import SearchForm from './Components/Search/SearchForm';
 import Header from './Components/Header/Header'
 
 
@@ -48,7 +48,7 @@ function App() {
 
     <Container className= 'my-1'>
       <Header/>
-      {/* <SearchForm params={params} onParamChange={handleChange}/> */}
+      <SearchForm params={params} onParamChange={handleChange}/>
        {loading && <h1>Loading...</h1>} 
       {filteredEmployee.map(name => {
         return <People key={name.id.value} name={name} />
