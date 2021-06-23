@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Card, Badge, Button, Collapse} from 'react-bootstrap'
-// import images from '../../images/logo.png'
+import images from '../../images/logo.png'
 
 
 
@@ -36,7 +36,7 @@ export default function People({name}) {
                         </div>
                     </Collapse>
                   </div>  
-                   {/* <img className= 'd-none d-md-block' height= '120' alt={images} src= {images}/>                    */}
+                   <img className= 'd-none d-md-block' height= '120' alt={images} src= {images}/>                   
              </div>  
            </Card.Body>
         </Card> 
