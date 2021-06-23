@@ -3,7 +3,7 @@
 
 #       Description
 
-This project simutales an application that allows the user to search for all employees within their company. Search results can be narrowed down by either searching for a specific employee by name, or search for all the employees that are located in a specific state. All employee cards display the employees' name, email, phone, employee ID, and DOB.
+This project simulates an application that allows the user to search for all employees within their company. Search results can be narrowed down by either searching for a specific employee by name, or search for all the employees that are located in a specific state. All employee cards display the employees' name, email, phone, employee ID, and DOB.
 
 
 
