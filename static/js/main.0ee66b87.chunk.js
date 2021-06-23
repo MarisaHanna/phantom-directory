@@ -1,2 +1,0 @@
-(this["webpackJsonpphantom-directory"]=this["webpackJsonpphantom-directory"]||[]).push([[0],{11:function(e,n,t){"use strict";t.r(n);t(1);var c=t(3),r=t.n(c),o=(t(8),t.p,t(9),t(0));var s=function(){return Object(o.jsxs)("div",{className:"App",children:[Object(o.jsx)("h1",{children:"please work!!"}),Object(o.jsx)("h1",{children:"working"})]})};r.a.render(Object(o.jsx)(s,{}),document.getElementById("root"))},8:function(e,n,t){},9:function(e,n,t){}},[[11,1,2]]]);
-//# sourceMappingURL=main.0ee66b87.chunk.js.map
