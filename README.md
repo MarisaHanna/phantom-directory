@@ -1,4 +1,4 @@
-#       Employee Search Driectory 
+#       Employee Search Directory 
 
 
 #       Description
